@@ -6,6 +6,8 @@ import 'package:widgets_app/config/theme/app_theme.dart';
 
 import 'presentation/providers/theme_provider.dart';
 
+//App ejemplos widgets material 3 utilizando Riverpod como manejador de estados.
+
 void main() {
   runApp(const ProviderScope(child: MainApp()));
 }
